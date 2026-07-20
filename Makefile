@@ -20,6 +20,7 @@ sync-to-blog:
 	  echo 'date        = '"$$(date '+%Y-%m-%dT%H:%M:%S+08:00')"; \
 	  echo 'author      = "weaming"'; \
 	  echo 'description = "基于孟加拉和 FARS 数据，分析摩托车事故的关键归因因素"'; \
+	  echo 'tags        = ["摩托车", "AI生成"]'; \
 	  echo 'toc         = true'; \
 	  echo '+++'; \
 	  echo ''; \
